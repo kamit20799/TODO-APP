@@ -1,0 +1,54 @@
+
+.parent-div {
+    margin-top: 200px;
+    padding-bottom: 50px;
+}
+
+.card {
+    width: 350px;
+    height: 200px;
+    border: 1px solid #f85d4b;
+    border-radius: 6px;
+    box-shadow: 5px 5px 15px  lightgrey;
+    margin: auto;
+    text-align: center;
+}
+
+.h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: #FA3A3A;
+}
+
+.text-field {
+    border: 2px solid #f85d4b;
+    width: 250px;
+    height: 32px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    box-shadow: 1px 3px 5px  lightgrey;
+}
+
+.button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    margin: auto;
+    border: 0px solid red;
+    border-radius: 28px;
+    width: 100px;
+    /* margin-top: 20px;
+    margin-bottom: 20px; */
+    height: 40px;
+}
+
+.link {
+    position: absolute;
+    right: 80px;
+    bottom: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 20px;
+}

@@ -1,0 +1,113 @@
+
+.parent-div {
+    padding-bottom: 50px;
+}
+
+.child1 {
+    display: flex;
+    justify-content: center;
+}
+
+.child-2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.icon {
+    color: red;
+    font-size: 35px;
+    
+}
+/* .back-icon {
+    margin: 750;
+    
+} */
+
+.add-list {
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    font-size: 23px;
+    top: 10px;
+    right: 0px;
+}
+
+.heading-line {
+    width: 100px;
+}
+
+.hr {
+    margin-top: 30px;
+}
+
+.trip-to-paris {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.child3 {
+    margin-top: 50px;
+}
+
+.card {
+    width:  400px;
+    height: 400px;
+    /* border: 2px solid #f85d4b; */
+    border: 2px solid #F0948A;
+    border-radius: 6px;
+    box-shadow: 5px 5px 15px  lightgrey;  
+    margin: auto;
+    /* position: relative; */
+}
+
+.card-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    /* color: #f5b4ad; */
+    /* color: #f85d4b; */
+    color: #F0948A;
+    text-align: center;
+    
+}
+
+/* .inside-card {
+     margin-left: 80px; 
+    color: red;
+} */
+
+.horizontal-line {
+    margin-left: 110px;
+}
+
+.Completed-Task {
+    font-family:Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: line-through;
+    text-decoration-color: #E95C4D;
+     text-decoration-style: solid; 
+    color: #E95C4D;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.link {
+    position: absolute;
+    right: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 20px;
+}
+
+#Pending-Task {
+    margin-left: 85px;
+    font-weight: 400;
+}
+
+.pending-task {
+    font-weight: 400;
+    font-size: 25px;
+    /* padding: 30px; */
+}
