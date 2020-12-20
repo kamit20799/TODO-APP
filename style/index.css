@@ -25,15 +25,6 @@
     position: relative;
 }
 
-.fa {
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
-    text-rendering: auto;
-    
-}
-
-
 .icon {
     position: absolute;
     right: 90px;
@@ -52,6 +43,7 @@
     top: 10px;
     right: 0px;
 }
+
 .child-2 {
     display: flex;
     justify-content: space-between;

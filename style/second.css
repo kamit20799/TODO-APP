@@ -16,12 +16,16 @@
 .icon {
     color: red;
     font-size: 35px;
-    
 }
-/* .back-icon {
-    margin: 750;
-    
-} */
+
+.icon-plus {
+    color: red;
+    font-size: 40px;
+    margin-left: 350px;
+    position: absolute;
+    bottom: 110px;
+    right: 200px;
+}
 
 .add-list {
     font-weight: lighter;
@@ -60,7 +64,6 @@
     border-radius: 6px;
     box-shadow: 5px 5px 15px  lightgrey;  
     margin: auto;
-    /* position: relative; */
 }
 
 .card-title {
@@ -72,11 +75,6 @@
     text-align: center;
     
 }
-
-/* .inside-card {
-     margin-left: 80px; 
-    color: red;
-} */
 
 .horizontal-line {
     margin-left: 110px;
@@ -109,5 +107,4 @@
 .pending-task {
     font-weight: 400;
     font-size: 25px;
-    /* padding: 30px; */
 }
